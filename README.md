@@ -1,15 +1,6 @@
 <div align="center">
 
-<br/>
-
-```
-██████╗ ██╗   ██╗██╗   ██╗     ██████╗ ██████╗     ██╗    ██╗ █████╗ ██╗████████╗
-██╔══██╗██║   ██║╚██╗ ██╔╝    ██╔═══██╗██╔══██╗    ██║    ██║██╔══██╗██║╚══██╔══╝
-██████╔╝██║   ██║ ╚████╔╝     ██║   ██║██████╔╝    ██║ █╗ ██║███████║██║   ██║
-██╔══██╗██║   ██║  ██╔═██╗    ██║   ██║██╔══██╗    ██║███╗██║██╔══██║██║   ██║
-██████╔╝╚██████╔╝ ██║  ██╗    ╚██████╔╝██║  ██║    ╚███╔███╔╝██║  ██║██║   ██║
-╚═════╝  ╚═════╝  ╚═╝  ╚═╝     ╚═════╝ ╚═╝  ╚═╝     ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝   ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Buy%20or%20Wait&fontSize=64&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Pay%20now%20%C2%B7%20Wait%20%C2%B7%20Or%20don%27t&descAlignY=55&descSize=16" width="100%"/>
 
 ### **Pay now. Wait. Or don't. Only when it is financially safe.**
 
